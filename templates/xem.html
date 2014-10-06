@@ -2,21 +2,30 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title><%= fontBaseName %></title>
+		<title>PiXograms</title>
 		<link rel="stylesheet" type="text/css" href="style/style.css">
 		<link rel="stylesheet" type="text/css" href="css/pix-webfont.css">
 	</head>
 	<body>
 
 		<div class='fixed'>
-			<h1><%= fontBaseName %></h1>
+			<h1>PiXograms</h1>
 
 			<h2>Usage</h2>
-			<pre><code>&lt;i class=&quot;<%= baseClass ? baseClass + ' ' : '' %><%= classPrefix %><span id="name">name</span>&quot;&gt;&lt;/i&gt;</code></pre>
-			<% if (addLigatures) { %>
-			<pre><code>&lt;i class=&quot;ligature-icons&quot;&gt;<span id="name2">name</span>&lt;/i&gt;</code></pre>
-			<% } %>
-
+			<div class='sample-code'>
+				<p>Como una clase</p>
+				<pre><code>&lt;i class=&quot;<%= baseClass ? baseClass + ' ' : '' %><%= classPrefix %><span id="name">name</span>&quot;&gt;&lt;/i&gt;</code></pre>
+				
+				<% if (addLigatures) { %>
+				<p>Como ligadura</p>
+				<pre><code>&lt;i class=&quot;pix&quot;&gt;<span id="name2">name</span>&lt;/i&gt;</code></pre>
+				<% } %>
+			</div>
+			
+			<div class='downloads'>
+				<a href="download/icons.zip" class='btn'><i class='pix'>download</i> íconos</a>
+				<a href="download/pix-webfont.zip" class='btn'><i class='pix'>download</i> webfont</a>
+			</div>
 		</div>
 
 
