@@ -6,9 +6,11 @@ font:
 	grunt webfont
 
 zip-icons:
+	rm download/icons.zip
 	zip -r -X download/icons.zip icons
 
 zip-webfont:
+	rm download/pix-webfont.zip
 	zip -r -X download/pix-webfont.zip css
 	zip -r -X download/pix-webfont.zip fonts
 	zip -r -X download/pix-webfont.zip index.html
