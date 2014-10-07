@@ -35,8 +35,16 @@ h1{
 	font-size: 70px;
 	letter-spacing: -.06ex;
 	font-weight: 900;
-	line-height: 0;
+	line-height: 100%;
+	padding: 0;
+	margin: 0;
 	text-shadow: @big-shadow;
+	small{
+		letter-spacing: normal;
+		font-weight: 100;
+		font-size: 42px;
+		color: fade(@foreground, 50);
+	}
 }
 
 h2{
@@ -52,7 +60,7 @@ h2{
 	display: inline-block;
 	margin: 0 @padding 0 0;
 	background-color: @color;
-	font-weight: 100;
+	font-weight: 200;
 	text-transform: uppercase;
 	text-shadow: @shadow;
 	color: white;
