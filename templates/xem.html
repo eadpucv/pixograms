@@ -40,7 +40,7 @@
 			<!-- <h3>Icons</h3> -->
 			<% for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { var glyph = glyphs[glyphIdx] %>
 				<div class="item" data-name="<%= glyph %>">
-					<i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i> <span class='icon-class'><%= classPrefix %><%= glyph %></span>
+					<i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i> <span class='icon-class'><!--<%= classPrefix %>--><%= glyph %></span>
 				</div>
 			<% } %>
 			
@@ -52,7 +52,12 @@
 				<% } %>
 			</div>
 			<% } %>
+
+			<h3>Testing Area</h3>
+			<p>Type icon names as they'll appear as ligatures</p>
+			<textarea class='test-area'>face</textarea>
 		</div>
+
 
 		
 
