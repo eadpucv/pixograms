@@ -3,7 +3,7 @@
 
 
 @import "variables";
-@import url(http://fonts.googleapis.com/css?family=Lato:100,300,900);
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700,900,300,100);
 @import url(http://fonts.googleapis.com/css?family=Inconsolata:400,700);
 
 *{
@@ -17,6 +17,21 @@ body{
 	margin: 0;
 }
 
+
+p{
+	font-weight: 300;
+	strong{
+		font-weight: 900;
+	}
+}
+a{
+	color: @color;
+	font-weight: 700;
+	text-decoration: none;
+	&:hover{color: saturate(@color, 25%)}
+}
+
+
 .fixed{
 	position: fixed;
 	width: 33%;
@@ -25,11 +40,21 @@ body{
 	padding: @padding;
 }
 
-pre code{
-	font-family: 'Inconsolata';
-	font-weight: 700;
-	font-size: 16px;
+pre {
+	background-color: white;
+	border-radius: 4px;
+	margin: 0;
+	padding: 6px;
+	code{
+		
+		font-family: 'Inconsolata';
+		font-weight: 700;
+		font-size: 16px;
+	}
 }
+
+
+
 
 h1{
 	font-size: 70px;
@@ -58,7 +83,7 @@ h2{
 
 .btn{
 	display: inline-block;
-	margin: @padding/2 @padding 0 0;
+	margin: @padding/2 @padding/2 0 0;
 	background-color: @color;
 	font-weight: 200;
 	text-transform: uppercase;
