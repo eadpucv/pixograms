@@ -10,28 +10,28 @@
 .icon-logo {
 	/*fill: #000000;*/
 }
-.icon-angry {
-	/*fill: #000000;*/
-}
-.icon-face {
-	/*fill: #000000;*/
-}
 .icon-furious {
 	/*fill: #000000;*/
 }
-.icon-happy {
-	/*fill: #000000;*/
-}
-.icon-intrigued {
+.icon-angry {
 	/*fill: #000000;*/
 }
 .icon-sad {
 	/*fill: #000000;*/
 }
+.icon-intrigued {
+	/*fill: #000000;*/
+}
+.icon-face {
+	/*fill: #000000;*/
+}
 .icon-smiling {
 	/*fill: #000000;*/
 }
-.icon-surpirsed {
+.icon-surprised {
+	/*fill: #000000;*/
+}
+.icon-happy {
 	/*fill: #000000;*/
 }
 .icon-desktop {
@@ -307,13 +307,13 @@
 .icon-config {
 	/*fill: #000000;*/
 }
-.icon-process {
-	/*fill: #000000;*/
-}
 .icon-import {
 	/*fill: #000000;*/
 }
 .icon-deviceshake {
+	/*fill: #000000;*/
+}
+.icon-process {
 	/*fill: #000000;*/
 }
 .icon-add {
@@ -323,6 +323,15 @@
 	/*fill: #000000;*/
 }
 .icon-ask {
+	/*fill: #000000;*/
+}
+.icon-remove {
+	/*fill: #000000;*/
+}
+.icon-cancel {
+	/*fill: #000000;*/
+}
+.icon-check {
 	/*fill: #000000;*/
 }
 .icon-attach {
@@ -335,12 +344,6 @@
 	/*fill: #000000;*/
 }
 .icon-call {
-	/*fill: #000000;*/
-}
-.icon-cancel {
-	/*fill: #000000;*/
-}
-.icon-check {
 	/*fill: #000000;*/
 }
 .icon-comment {
@@ -425,9 +428,6 @@
 	/*fill: #000000;*/
 }
 .icon-rec {
-	/*fill: #000000;*/
-}
-.icon-remove {
 	/*fill: #000000;*/
 }
 .icon-resize {
