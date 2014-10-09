@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Thu Oct  9 16:40:22 2014
+Created by FontForge 20120731 at Thu Oct  9 16:48:40 2014
  By Herbert Spencer
 Created by Herbert Spencer with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
@@ -496,7 +496,7 @@ q0 -11 -7.5 -18.5t-18.5 -7.5h-220v-14q0 -1 2 -3t3 -2h255q2 0 4 2q1 1 1 3z" />
     <glyph glyph-name="stop" unicode="stop" horiz-adv-x="400" 
 d="M-56 448zM374 331q10 0 18 -7.5t8 -18.5v-226q0 -11 -8 -18.5t-18 -7.5h-348q-10 0 -18 7.5t-8 18.5v226q0 11 8 18.5t18 7.5h348zM378 75q1 1 1 4v226q0 3 -1 4t-4 1h-348q-3 0 -4 -1q-2 -2 -2 -4v-226q0 -2 2 -4q1 -1 4 -1h348q3 0 4 1zM249 268q11 0 18.5 -7.5
 t7.5 -17.5v-94q0 -11 -7.5 -18.5t-18.5 -7.5h-93q-10 0 -18 7.5t-8 18.5v94q0 10 7.5 17.5t18.5 7.5h93z" />
-    <glyph glyph-name="surpirsed" unicode="surpirsed" horiz-adv-x="397" 
+    <glyph glyph-name="surprised" unicode="surprised" horiz-adv-x="397" 
 d="M-57 448zM136 263q-6 19 -16 29t-24 10v0q-11 0 -23 -10q-9 -8 -16 -27l-10 3q6 20 18 32t31 12v0q18 0 31 -13t19 -33zM51 323q-18 -11 -33 -36l-18 11q16 29 39 43q26 16 56 16h1q29 0 52 -14q24 -15 39 -38l-17 -11q-14 21 -32 31q-21 12 -42 12v0q-22 0 -45 -14z
 M110 271q0 -14 -14 -14q-15 0 -15 14t15 14q14 0 14 -14zM341 265q-6 19 -16 27q-12 10 -23 10q-14 0 -24 -10t-16 -29l-10 3q6 20 19 33t30 13h1v0q17 0 30 -13q14 -14 19 -31zM260 325q-17 -10 -32 -32l-17 12q15 24 38 38t53 14v0v0q30 0 56 -16q22 -14 39 -44l-18 -10
 q-16 26 -32 36q-23 14 -45 14v0q-21 0 -42 -12zM316 271q0 -14 -14 -14q-15 0 -15 14t15 14q14 0 14 -14zM179 139q1 -3 4 -4q5 -4 16 -4q8 0 12 2q7 3 8 6q1 2 1 6h15q0 -7 -3 -13q-4 -7 -9 -10q-8 -6 -24 -6q-13 0 -19 3q-10 5 -14 13t-4 13h15q0 -2 2 -6zM219 54
