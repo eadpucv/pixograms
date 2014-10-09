@@ -4,408 +4,471 @@
 	height: 256px;
 	fill: currentColor;
 }
-.icon-pix-empty {
+.icon-empty {
 	/*fill: #000000;*/
 }
-.icon-pix-logo {
+.icon-logo {
 	/*fill: #000000;*/
 }
-.icon-pix-dialogue {
+.icon-angry {
 	/*fill: #000000;*/
 }
-.icon-pix-person {
+.icon-face {
 	/*fill: #000000;*/
 }
-.icon-pix-system {
+.icon-furious {
 	/*fill: #000000;*/
 }
-.icon-pix-face-intrigued {
+.icon-happy {
 	/*fill: #000000;*/
 }
-.icon-pix-face-laughing {
+.icon-intrigued {
 	/*fill: #000000;*/
 }
-.icon-pix-face-sad {
+.icon-sad {
 	/*fill: #000000;*/
 }
-.icon-pix-face-similing {
+.icon-smiling {
 	/*fill: #000000;*/
 }
-.icon-pix-face-surpirsed {
+.icon-surpirsed {
 	/*fill: #000000;*/
 }
-.icon-pix-face-upset {
+.icon-desktop {
 	/*fill: #000000;*/
 }
-.icon-pix-face {
+.icon-dialogue {
 	/*fill: #000000;*/
 }
-.icon-pix-click-drag {
+.icon-game {
 	/*fill: #000000;*/
 }
-.icon-pix-click {
+.icon-kiosk {
 	/*fill: #000000;*/
 }
-.icon-pix-double-click {
+.icon-mobile {
 	/*fill: #000000;*/
 }
-.icon-pix-double-tap {
+.icon-notebook {
 	/*fill: #000000;*/
 }
-.icon-pix-drag-n-drop {
+.icon-person {
 	/*fill: #000000;*/
 }
-.icon-pix-pinch-zoom {
+.icon-system {
 	/*fill: #000000;*/
 }
-.icon-pix-pinch {
+.icon-tablet {
 	/*fill: #000000;*/
 }
-.icon-pix-rotate {
+.icon-tv {
 	/*fill: #000000;*/
 }
-.icon-pix-scroll {
+.icon-api {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-2 {
+.icon-archive {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-3 {
+.icon-audio {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-4 {
+.icon-autocomplete {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-down-1 {
+.icon-button {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-down-2 {
+.icon-camera {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-down-3 {
+.icon-checkbox {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-down-4 {
+.icon-clock {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-down-5 {
+.icon-cloud {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-left-1 {
+.icon-color {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-left-2 {
+.icon-contact {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-left-3 {
+.icon-contacts {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-left-4 {
+.icon-database {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-left-5 {
+.icon-date {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-right-1 {
+.icon-email {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-right-2 {
+.icon-file {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-right-3 {
+.icon-filter {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-right-4 {
+.icon-gallery {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-right-5 {
+.icon-image {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-up-1 {
+.icon-input {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-up-2 {
+.icon-link {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-up-3 {
+.icon-list {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-up-4 {
+.icon-map {
 	/*fill: #000000;*/
 }
-.icon-pix-tap-up-5 {
+.icon-page {
 	/*fill: #000000;*/
 }
-.icon-pix-tap {
+.icon-password {
 	/*fill: #000000;*/
 }
-.icon-pix-touch-collapse {
+.icon-position {
 	/*fill: #000000;*/
 }
-.icon-pix-touch-expand {
+.icon-progress {
 	/*fill: #000000;*/
 }
-.icon-pix-add {
+.icon-qr {
 	/*fill: #000000;*/
 }
-.icon-pix-alert {
+.icon-radio {
 	/*fill: #000000;*/
 }
-.icon-pix-ask {
+.icon-radioselect {
 	/*fill: #000000;*/
 }
-.icon-pix-attach {
+.icon-range {
 	/*fill: #000000;*/
 }
-.icon-pix-branch {
+.icon-route {
 	/*fill: #000000;*/
 }
-.icon-pix-buy {
+.icon-rss {
 	/*fill: #000000;*/
 }
-.icon-pix-call {
+.icon-select {
 	/*fill: #000000;*/
 }
-.icon-pix-cancel {
+.icon-stack {
 	/*fill: #000000;*/
 }
-.icon-pix-check {
+.icon-switch {
 	/*fill: #000000;*/
 }
-.icon-pix-comment {
+.icon-tag {
 	/*fill: #000000;*/
 }
-.icon-pix-config {
+.icon-text {
 	/*fill: #000000;*/
 }
-.icon-pix-paste {
+.icon-time {
 	/*fill: #000000;*/
 }
-.icon-pix-delete {
+.icon-unlink {
 	/*fill: #000000;*/
 }
-.icon-pix-device-orient {
+.icon-video {
 	/*fill: #000000;*/
 }
-.icon-pix-dislike {
+.icon-window {
 	/*fill: #000000;*/
 }
-.icon-pix-download {
+.icon-body {
 	/*fill: #000000;*/
 }
-.icon-pix-edit {
+.icon-click {
 	/*fill: #000000;*/
 }
-.icon-pix-export {
+.icon-collapse {
 	/*fill: #000000;*/
 }
-.icon-pix-fast-foward {
+.icon-doubleclick {
 	/*fill: #000000;*/
 }
-.icon-pix-hang-up {
+.icon-doubletap {
 	/*fill: #000000;*/
 }
-.icon-pix-import {
+.icon-drag {
 	/*fill: #000000;*/
 }
-.icon-pix-like {
+.icon-drop {
 	/*fill: #000000;*/
 }
-.icon-pix-lock {
+.icon-expand {
 	/*fill: #000000;*/
 }
-.icon-pix-merge {
+.icon-hand1 {
 	/*fill: #000000;*/
 }
-.icon-pix-device-rotate {
+.icon-hand {
 	/*fill: #000000;*/
 }
-.icon-pix-device-shake {
+.icon-pinch {
 	/*fill: #000000;*/
 }
-.icon-pix-move {
+.icon-rotate {
 	/*fill: #000000;*/
 }
-.icon-pix-next {
+.icon-scroll {
 	/*fill: #000000;*/
 }
-.icon-pix-notify {
+.icon-tap {
 	/*fill: #000000;*/
 }
-.icon-pix-copy {
+.icon-tap1down {
 	/*fill: #000000;*/
 }
-.icon-pix-pause {
+.icon-tap1left {
 	/*fill: #000000;*/
 }
-.icon-pix-pay {
+.icon-tap1right {
 	/*fill: #000000;*/
 }
-.icon-pix-play {
+.icon-tap1up {
 	/*fill: #000000;*/
 }
-.icon-pix-previous {
+.icon-tap2 {
 	/*fill: #000000;*/
 }
-.icon-pix-print {
+.icon-tap2down {
 	/*fill: #000000;*/
 }
-.icon-pix-process {
+.icon-tap2left {
 	/*fill: #000000;*/
 }
-.icon-pix-pront {
+.icon-tap2right {
 	/*fill: #000000;*/
 }
-.icon-pix-rec {
+.icon-tap2up {
 	/*fill: #000000;*/
 }
-.icon-pix-record {
+.icon-tap3 {
 	/*fill: #000000;*/
 }
-.icon-pix-remove {
+.icon-tap3down {
 	/*fill: #000000;*/
 }
-.icon-pix-resize {
+.icon-tap3left {
 	/*fill: #000000;*/
 }
-.icon-pix-rewind {
+.icon-tap3right {
 	/*fill: #000000;*/
 }
-.icon-pix-save {
+.icon-tap3up {
 	/*fill: #000000;*/
 }
-.icon-pix-say {
+.icon-tap4 {
 	/*fill: #000000;*/
 }
-.icon-pix-search {
+.icon-tap4down {
 	/*fill: #000000;*/
 }
-.icon-pix-send {
+.icon-tap4left {
 	/*fill: #000000;*/
 }
-.icon-pix-share {
+.icon-tap4right {
 	/*fill: #000000;*/
 }
-.icon-pix-speak {
+.icon-tap4up {
 	/*fill: #000000;*/
 }
-.icon-pix-stop {
+.icon-tap5down {
 	/*fill: #000000;*/
 }
-.icon-pix-think {
+.icon-tap5left {
 	/*fill: #000000;*/
 }
-.icon-pix-unlock {
+.icon-tap5right {
 	/*fill: #000000;*/
 }
-.icon-pix-update {
+.icon-tap5up {
 	/*fill: #000000;*/
 }
-.icon-pix-upload {
+.icon-zoom {
 	/*fill: #000000;*/
 }
-.icon-pix-view {
+.icon-config {
 	/*fill: #000000;*/
 }
-.icon-pix-archive {
+.icon-process {
 	/*fill: #000000;*/
 }
-.icon-pix-audio {
+.icon-import {
 	/*fill: #000000;*/
 }
-.icon-pix-button {
+.icon-deviceshake {
 	/*fill: #000000;*/
 }
-.icon-pix-checkbox {
+.icon-add {
 	/*fill: #000000;*/
 }
-.icon-pix-clock {
+.icon-alert {
 	/*fill: #000000;*/
 }
-.icon-pix-cloud {
+.icon-ask {
 	/*fill: #000000;*/
 }
-.icon-pix-contact {
+.icon-attach {
 	/*fill: #000000;*/
 }
-.icon-pix-contacts {
+.icon-branch {
 	/*fill: #000000;*/
 }
-.icon-pix-database {
+.icon-buy {
 	/*fill: #000000;*/
 }
-.icon-pix-date {
+.icon-call {
 	/*fill: #000000;*/
 }
-.icon-pix-email {
+.icon-cancel {
 	/*fill: #000000;*/
 }
-.icon-pix-file {
+.icon-check {
 	/*fill: #000000;*/
 }
-.icon-pix-filter {
+.icon-comment {
 	/*fill: #000000;*/
 }
-.icon-pix-gallery {
+.icon-copy {
 	/*fill: #000000;*/
 }
-.icon-pix-image {
+.icon-cut {
 	/*fill: #000000;*/
 }
-.icon-pix-input {
+.icon-delete {
 	/*fill: #000000;*/
 }
-.icon-pix-link {
+.icon-dislike {
 	/*fill: #000000;*/
 }
-.icon-pix-list {
+.icon-download {
 	/*fill: #000000;*/
 }
-.icon-pix-map {
+.icon-edit {
 	/*fill: #000000;*/
 }
-.icon-pix-page {
+.icon-export {
 	/*fill: #000000;*/
 }
-.icon-pix-position {
+.icon-ff {
 	/*fill: #000000;*/
 }
-.icon-pix-radio-select {
+.icon-film {
 	/*fill: #000000;*/
 }
-.icon-pix-radio {
+.icon-hangup {
 	/*fill: #000000;*/
 }
-.icon-pix-range {
+.icon-like {
 	/*fill: #000000;*/
 }
-.icon-pix-rss {
+.icon-lock {
 	/*fill: #000000;*/
 }
-.icon-pix-select {
+.icon-merge {
 	/*fill: #000000;*/
 }
-.icon-pix-stack {
+.icon-message {
 	/*fill: #000000;*/
 }
-.icon-pix-switch {
+.icon-deviceorient {
 	/*fill: #000000;*/
 }
-.icon-pix-tag {
+.icon-devicerotate {
 	/*fill: #000000;*/
 }
-.icon-pix-text {
+.icon-devicevibrate {
 	/*fill: #000000;*/
 }
-.icon-pix-time {
+.icon-move {
 	/*fill: #000000;*/
 }
-.icon-pix-unlink {
+.icon-next {
 	/*fill: #000000;*/
 }
-.icon-pix-video {
+.icon-notify {
 	/*fill: #000000;*/
 }
-.icon-pix-window {
+.icon-paste {
+	/*fill: #000000;*/
+}
+.icon-pause {
+	/*fill: #000000;*/
+}
+.icon-pay {
+	/*fill: #000000;*/
+}
+.icon-play {
+	/*fill: #000000;*/
+}
+.icon-prev {
+	/*fill: #000000;*/
+}
+.icon-print {
+	/*fill: #000000;*/
+}
+.icon-rec {
+	/*fill: #000000;*/
+}
+.icon-remove {
+	/*fill: #000000;*/
+}
+.icon-resize {
+	/*fill: #000000;*/
+}
+.icon-rew {
+	/*fill: #000000;*/
+}
+.icon-save {
+	/*fill: #000000;*/
+}
+.icon-say {
+	/*fill: #000000;*/
+}
+.icon-search {
+	/*fill: #000000;*/
+}
+.icon-send {
+	/*fill: #000000;*/
+}
+.icon-share {
+	/*fill: #000000;*/
+}
+.icon-speak {
+	/*fill: #000000;*/
+}
+.icon-stop {
+	/*fill: #000000;*/
+}
+.icon-think {
+	/*fill: #000000;*/
+}
+.icon-unlock {
+	/*fill: #000000;*/
+}
+.icon-update {
+	/*fill: #000000;*/
+}
+.icon-upload {
+	/*fill: #000000;*/
+}
+.icon-view {
 	/*fill: #000000;*/
 }
