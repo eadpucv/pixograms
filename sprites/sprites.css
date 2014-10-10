@@ -10,67 +10,79 @@
 .icon-logo {
 	/*fill: #000000;*/
 }
-.icon-furious {
-	/*fill: #000000;*/
-}
 .icon-angry {
-	/*fill: #000000;*/
-}
-.icon-sad {
-	/*fill: #000000;*/
-}
-.icon-intrigued {
 	/*fill: #000000;*/
 }
 .icon-face {
 	/*fill: #000000;*/
 }
-.icon-smiling {
-	/*fill: #000000;*/
-}
-.icon-surprised {
+.icon-furious {
 	/*fill: #000000;*/
 }
 .icon-happy {
 	/*fill: #000000;*/
 }
-.icon-desktop {
+.icon-intrigued {
+	/*fill: #000000;*/
+}
+.icon-sad {
+	/*fill: #000000;*/
+}
+.icon-smiling {
+	/*fill: #000000;*/
+}
+.icon-surpirsed {
 	/*fill: #000000;*/
 }
 .icon-dialogue {
 	/*fill: #000000;*/
 }
-.icon-game {
-	/*fill: #000000;*/
-}
-.icon-kiosk {
-	/*fill: #000000;*/
-}
 .icon-mobile {
-	/*fill: #000000;*/
-}
-.icon-notebook {
-	/*fill: #000000;*/
-}
-.icon-person {
-	/*fill: #000000;*/
-}
-.icon-system {
 	/*fill: #000000;*/
 }
 .icon-tablet {
 	/*fill: #000000;*/
 }
+.icon-notebook {
+	/*fill: #000000;*/
+}
+.icon-desktop {
+	/*fill: #000000;*/
+}
 .icon-tv {
+	/*fill: #000000;*/
+}
+.icon-kiosk {
+	/*fill: #000000;*/
+}
+.icon-game {
+	/*fill: #000000;*/
+}
+.icon-system {
+	/*fill: #000000;*/
+}
+.icon-person {
+	/*fill: #000000;*/
+}
+.icon-up {
+	/*fill: #000000;*/
+}
+.icon-down {
+	/*fill: #000000;*/
+}
+.icon-left {
+	/*fill: #000000;*/
+}
+.icon-right {
 	/*fill: #000000;*/
 }
 .icon-api {
 	/*fill: #000000;*/
 }
-.icon-archive {
+.icon-tag {
 	/*fill: #000000;*/
 }
-.icon-audio {
+.icon-archive {
 	/*fill: #000000;*/
 }
 .icon-autocomplete {
@@ -170,9 +182,6 @@
 	/*fill: #000000;*/
 }
 .icon-switch {
-	/*fill: #000000;*/
-}
-.icon-tag {
 	/*fill: #000000;*/
 }
 .icon-text {
@@ -304,16 +313,46 @@
 .icon-zoom {
 	/*fill: #000000;*/
 }
+.icon-deviceshake {
+	/*fill: #000000;*/
+}
+.icon-deviceorient {
+	/*fill: #000000;*/
+}
+.icon-devicerotate {
+	/*fill: #000000;*/
+}
+.icon-devicevibrate {
+	/*fill: #000000;*/
+}
+.icon-say {
+	/*fill: #000000;*/
+}
+.icon-comment {
+	/*fill: #000000;*/
+}
+.icon-message {
+	/*fill: #000000;*/
+}
 .icon-config {
+	/*fill: #000000;*/
+}
+.icon-process {
+	/*fill: #000000;*/
+}
+.icon-buy {
 	/*fill: #000000;*/
 }
 .icon-import {
 	/*fill: #000000;*/
 }
-.icon-deviceshake {
+.icon-export {
 	/*fill: #000000;*/
 }
-.icon-process {
+.icon-upload {
+	/*fill: #000000;*/
+}
+.icon-download {
 	/*fill: #000000;*/
 }
 .icon-add {
@@ -334,112 +373,91 @@
 .icon-check {
 	/*fill: #000000;*/
 }
-.icon-attach {
-	/*fill: #000000;*/
-}
-.icon-branch {
-	/*fill: #000000;*/
-}
-.icon-buy {
-	/*fill: #000000;*/
-}
-.icon-call {
-	/*fill: #000000;*/
-}
-.icon-comment {
-	/*fill: #000000;*/
-}
 .icon-copy {
 	/*fill: #000000;*/
 }
 .icon-cut {
 	/*fill: #000000;*/
 }
-.icon-delete {
-	/*fill: #000000;*/
-}
-.icon-dislike {
-	/*fill: #000000;*/
-}
-.icon-download {
+.icon-paste {
 	/*fill: #000000;*/
 }
 .icon-edit {
 	/*fill: #000000;*/
 }
-.icon-export {
+.icon-attach {
 	/*fill: #000000;*/
 }
-.icon-ff {
+.icon-speak {
 	/*fill: #000000;*/
 }
-.icon-film {
-	/*fill: #000000;*/
-}
-.icon-hangup {
-	/*fill: #000000;*/
-}
-.icon-like {
-	/*fill: #000000;*/
-}
-.icon-lock {
+.icon-branch {
 	/*fill: #000000;*/
 }
 .icon-merge {
 	/*fill: #000000;*/
 }
-.icon-message {
+.icon-call {
 	/*fill: #000000;*/
 }
-.icon-deviceorient {
+.icon-hangup {
 	/*fill: #000000;*/
 }
-.icon-devicerotate {
-	/*fill: #000000;*/
-}
-.icon-devicevibrate {
-	/*fill: #000000;*/
-}
-.icon-move {
-	/*fill: #000000;*/
-}
-.icon-next {
-	/*fill: #000000;*/
-}
-.icon-notify {
-	/*fill: #000000;*/
-}
-.icon-paste {
-	/*fill: #000000;*/
-}
-.icon-pause {
-	/*fill: #000000;*/
-}
-.icon-pay {
-	/*fill: #000000;*/
-}
-.icon-play {
+.icon-delete {
 	/*fill: #000000;*/
 }
 .icon-prev {
 	/*fill: #000000;*/
 }
-.icon-print {
+.icon-rew {
+	/*fill: #000000;*/
+}
+.icon-play {
+	/*fill: #000000;*/
+}
+.icon-pause {
+	/*fill: #000000;*/
+}
+.icon-stop {
+	/*fill: #000000;*/
+}
+.icon-ff {
+	/*fill: #000000;*/
+}
+.icon-next {
 	/*fill: #000000;*/
 }
 .icon-rec {
 	/*fill: #000000;*/
 }
+.icon-dislike {
+	/*fill: #000000;*/
+}
+.icon-like {
+	/*fill: #000000;*/
+}
+.icon-film {
+	/*fill: #000000;*/
+}
+.icon-lock {
+	/*fill: #000000;*/
+}
+.icon-move {
+	/*fill: #000000;*/
+}
+.icon-notify {
+	/*fill: #000000;*/
+}
+.icon-pay {
+	/*fill: #000000;*/
+}
+.icon-print {
+	/*fill: #000000;*/
+}
 .icon-resize {
 	/*fill: #000000;*/
 }
-.icon-rew {
-	/*fill: #000000;*/
-}
 .icon-save {
-	/*fill: #000000;*/
-}
-.icon-say {
 	/*fill: #000000;*/
 }
 .icon-search {
@@ -451,12 +469,6 @@
 .icon-share {
 	/*fill: #000000;*/
 }
-.icon-speak {
-	/*fill: #000000;*/
-}
-.icon-stop {
-	/*fill: #000000;*/
-}
 .icon-think {
 	/*fill: #000000;*/
 }
@@ -464,9 +476,6 @@
 	/*fill: #000000;*/
 }
 .icon-update {
-	/*fill: #000000;*/
-}
-.icon-upload {
 	/*fill: #000000;*/
 }
 .icon-view {

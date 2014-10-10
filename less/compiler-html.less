@@ -6,6 +6,9 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,900,300,100);
 @import url(http://fonts.googleapis.com/css?family=Inconsolata:400,700);
 
+
+html{text-rendering:optimizeLegibility}
+
 *{
 	box-sizing: border-box;
 }
@@ -68,7 +71,7 @@ h1{
 		letter-spacing: .5ex;
 		text-shadow: none;
 		color: @background;
-		background-color: @foreground;
+		background-color: fade(@foreground, 25);
 		padding: 2px 6px;
 		border-radius: 6px;
 		font-weight: 900;
@@ -78,10 +81,6 @@ h1{
 h2{
 	font-weight: 700;
 	color: @color;
-}
-
-.downloads{
-	margin: 48px 0 0 0;
 }
 
 .btn{
@@ -145,8 +144,10 @@ textarea.test-area{
 	border: none;
 	background-color: white;
 	font-size: 72px;
-	font-family: pix;
+	font-family: 'pix' !important;
 	padding: 0 12px;
+	font-variant-ligatures: common-ligatures;
+	-webkit-font-variant-ligatures: common-ligatures;
 }
 
 footer{
