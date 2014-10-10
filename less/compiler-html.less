@@ -17,9 +17,9 @@ body{
 	margin: 0;
 }
 
-
 p{
 	font-weight: 300;
+	margin: 5px 0;
 	strong{
 		font-weight: 900;
 	}
@@ -53,22 +53,25 @@ pre {
 	}
 }
 
-
-
-
 h1{
 	font-size: 70px;
 	letter-spacing: -.06ex;
 	font-weight: 900;
-	line-height: 100%;
+	line-height: 44%;
 	padding: 0;
 	margin: 0;
 	text-shadow: @big-shadow;
-	small{
-		letter-spacing: normal;
-		font-weight: 100;
-		font-size: 42px;
-		color: fade(@foreground, 50);
+		.version{
+		display: inline-block;
+		font-size: 14px;
+		line-height: 1.2;
+		letter-spacing: .5ex;
+		text-shadow: none;
+		color: @background;
+		background-color: @foreground;
+		padding: 2px 6px;
+		border-radius: 6px;
+		font-weight: 900;
 	}
 }
 
@@ -133,7 +136,6 @@ h2{
 	}
 }
 
-
 .lig{
 	font-size: 42px;
 }
@@ -148,13 +150,30 @@ textarea.test-area{
 }
 
 footer{
+	.clearfix;
 	background-color: @foreground;
 	color: @background;
 	padding: @padding;
 	margin: 50px 0 0 0;
-	font-size: 12px;
+	font-size: 16px;
 	font-weight: 900;
 	a{
-		color: @color;
+		color: white;
 	}
+}
+
+
+.right{
+	float:right;
+}
+
+.clearfix() {
+  &:before,
+  &:after {
+    content: " "; // 1
+    display: table; // 2
+  }
+  &:after {
+    clear: both;
+  }
 }
