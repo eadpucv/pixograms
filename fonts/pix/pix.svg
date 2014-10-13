@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Fri Oct 10 19:30:07 2014
+Created by FontForge 20120731 at Mon Oct 13 11:20:54 2014
  By Herbert Spencer
 Created by Herbert Spencer with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
@@ -19,7 +19,7 @@ Created by Herbert Spencer with FontForge 2.0 (http://fontforge.sf.net)
     bbox="-0.5 -57 506 441"
     underline-thickness="25"
     underline-position="-52"
-    unicode-range="U+0031-F19F"
+    unicode-range="U+0031-F1A0"
   />
 <missing-glyph horiz-adv-x="187" 
 d="M17 0v341h136v-341h-136zM34 17h102v307h-102v-307z" />
@@ -45,6 +45,9 @@ q12 -12 12 -29q0 -13 -4 -18q-6 -8 -18 -20q-9 -7 -13 -16q-3 -6 -3 -19h-19q0 12 4 
     <glyph glyph-name="attach" unicode="attach" horiz-adv-x="365" 
 d="M-65 448zM64 28q-27 0 -45 18q-19 19 -19 47q0 30 21 52l92 95l7 -7l-7 7l98 102q30 32 72 32q35 0 58 -23q24 -24 24 -60q0 -41 -29 -72l-164 -171l-15 14l164 171q24 25 24 58q0 27 -18 45q-20 18 -44 18q-33 0 -57 -26l-99 -102l-91 -95q-15 -17 -15 -38q0 -20 12 -32
 q13 -13 31 -13q21 0 38 17l21 21l167 176q10 10 10 23q0 10 -7 17t-16 7q-12 0 -23 -11l-161 -169l-15 14l161 170q15 16 38 16q19 0 31 -12q13 -13 13 -32q0 -20 -16 -38l-128 -134l1 -1l-40 -41l-9 -9l-12 -12q-22 -22 -53 -22z" />
+    <glyph glyph-name="audio" unicode="audio" horiz-adv-x="303" 
+d="M-100 448zM277 29h-251q-11 0 -18.5 7.5t-7.5 17.5v253q0 11 8 18.5t18 7.5h251q11 0 18.5 -7.5t7.5 -18.5v-253q0 -10 -7.5 -17.5t-18.5 -7.5zM22 311q-1 -1 -1 -4v-101l17 -12l23 34l22 -40l24 60l21 -88l23 108l23 -101l22 81l23 -68l22 40l23 -34l18 20v101q0 3 -1 4
+t-4 1h-251q-3 0 -4 -1zM20 54q0 -1 2 -3t4 -2h251q2 0 4 2q1 1 1 3v121l-20 -22l-19 27l-28 -51l-17 49l-26 -95l-20 89l-22 -104l-28 112l-16 -41l-27 50l-16 -24l-23 16v-127z" />
     <glyph glyph-name="autocomplete" unicode="autocomplete" horiz-adv-x="374" 
 d="M-67 448zM69 160v-22h12v-11h-12v-52q0 -5 2 -6q1 -1 6 -1h2h2v-10q-1 0 -2.5 -0.5t-2.5 -0.5t-2.5 -0.5t-2.5 -0.5q-10 0 -13 5q-3 4 -3 13v53h-11v11h11v22h14zM123 73l22 65h15q-1 -2 -5 -13.5t-8 -21.5q-10 -28 -12 -34q-10 -26 -17 -37q-4 -7 -16 -7h-4l-2 1h-2v12
 q2 -1 5 -1h3q4 0 5 1l3 3l3 6q1 2 2 4.5t1 3.5l-29 83h15zM208 140q15 0 24 -11t9 -29q0 -27 -14 -38q-8 -7 -20 -7q-10 0 -15 4q-1 1 -2.5 2t-3 2.5t-2.5 3.5v-41h-14v112h14v-11q4 5 8 8q8 5 16 5zM221 75q6 7 6 23q0 12 -2 17q-6 13 -20 13t-19 -14q-3 -8 -3 -19
@@ -498,7 +501,7 @@ q0 -11 -7.5 -18.5t-18.5 -7.5h-220v-14q0 -1 2 -3t3 -2h255q2 0 4 2q1 1 1 3z" />
     <glyph glyph-name="stop" unicode="stop" horiz-adv-x="400" 
 d="M-56 448zM374 331q10 0 18 -7.5t8 -18.5v-226q0 -11 -8 -18.5t-18 -7.5h-348q-10 0 -18 7.5t-8 18.5v226q0 11 8 18.5t18 7.5h348zM378 75q1 1 1 4v226q0 3 -1 4t-4 1h-348q-3 0 -4 -1q-2 -2 -2 -4v-226q0 -2 2 -4q1 -1 4 -1h348q3 0 4 1zM249 268q11 0 18.5 -7.5
 t7.5 -17.5v-94q0 -11 -7.5 -18.5t-18.5 -7.5h-93q-10 0 -18 7.5t-8 18.5v94q0 10 7.5 17.5t18.5 7.5h93z" />
-    <glyph glyph-name="surprised" unicode="surprised" horiz-adv-x="397" 
+    <glyph glyph-name="surpirsed" unicode="surpirsed" horiz-adv-x="397" 
 d="M-57 448zM136 263q-6 19 -16 29t-24 10v0q-11 0 -23 -10q-9 -8 -16 -27l-10 3q6 20 18 32t31 12v0q18 0 31 -13t19 -33zM51 323q-18 -11 -33 -36l-18 11q16 29 39 43q26 16 56 16h1q29 0 52 -14q24 -15 39 -38l-17 -11q-14 21 -32 31q-21 12 -42 12v0q-22 0 -45 -14z
 M110 271q0 -14 -14 -14q-15 0 -15 14t15 14q14 0 14 -14zM341 265q-6 19 -16 27q-12 10 -23 10q-14 0 -24 -10t-16 -29l-10 3q6 20 19 33t30 13h1v0q17 0 30 -13q14 -14 19 -31zM260 325q-17 -10 -32 -32l-17 12q15 24 38 38t53 14v0v0q30 0 56 -16q22 -14 39 -44l-18 -10
 q-16 26 -32 36q-23 14 -45 14v0q-21 0 -42 -12zM316 271q0 -14 -14 -14q-15 0 -15 14t15 14q14 0 14 -14zM179 139q1 -3 4 -4q5 -4 16 -4q8 0 12 2q7 3 8 6q1 2 1 6h15q0 -7 -3 -13q-4 -7 -9 -10q-8 -6 -24 -6q-13 0 -19 3q-10 5 -14 13t-4 13h15q0 -2 2 -6zM219 54
