@@ -1,6 +1,6 @@
 # PiXtograms<br><small>Icons for the PiX Language</small>
 
-v0.2.4
+v0.2.5
 
 This repository serves as the primary dependency of [PiX](http://www.github.com/eadpucv/pix)
 

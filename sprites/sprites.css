@@ -31,7 +31,7 @@
 .icon-smiling {
 	/*fill: #000000;*/
 }
-.icon-surpirsed {
+.icon-surprised {
 	/*fill: #000000;*/
 }
 .icon-dialogue {
@@ -205,10 +205,13 @@
 .icon-body {
 	/*fill: #000000;*/
 }
-.icon-click {
+.icon-hand {
 	/*fill: #000000;*/
 }
-.icon-collapse {
+.icon-hand1 {
+	/*fill: #000000;*/
+}
+.icon-click {
 	/*fill: #000000;*/
 }
 .icon-doubleclick {
@@ -223,25 +226,28 @@
 .icon-drop {
 	/*fill: #000000;*/
 }
-.icon-expand {
-	/*fill: #000000;*/
-}
-.icon-hand1 {
-	/*fill: #000000;*/
-}
-.icon-hand {
-	/*fill: #000000;*/
-}
 .icon-pinch {
 	/*fill: #000000;*/
 }
 .icon-rotate {
 	/*fill: #000000;*/
 }
+.icon-zoom {
+	/*fill: #000000;*/
+}
 .icon-scroll {
 	/*fill: #000000;*/
 }
+.icon-collapse {
+	/*fill: #000000;*/
+}
+.icon-expand {
+	/*fill: #000000;*/
+}
 .icon-tap {
+	/*fill: #000000;*/
+}
+.icon-tap1up {
 	/*fill: #000000;*/
 }
 .icon-tap1down {
@@ -253,10 +259,10 @@
 .icon-tap1right {
 	/*fill: #000000;*/
 }
-.icon-tap1up {
+.icon-tap2 {
 	/*fill: #000000;*/
 }
-.icon-tap2 {
+.icon-tap2up {
 	/*fill: #000000;*/
 }
 .icon-tap2down {
@@ -268,10 +274,10 @@
 .icon-tap2right {
 	/*fill: #000000;*/
 }
-.icon-tap2up {
+.icon-tap3 {
 	/*fill: #000000;*/
 }
-.icon-tap3 {
+.icon-tap3up {
 	/*fill: #000000;*/
 }
 .icon-tap3down {
@@ -283,10 +289,10 @@
 .icon-tap3right {
 	/*fill: #000000;*/
 }
-.icon-tap3up {
+.icon-tap4 {
 	/*fill: #000000;*/
 }
-.icon-tap4 {
+.icon-tap4up {
 	/*fill: #000000;*/
 }
 .icon-tap4down {
@@ -298,7 +304,7 @@
 .icon-tap4right {
 	/*fill: #000000;*/
 }
-.icon-tap4up {
+.icon-tap5up {
 	/*fill: #000000;*/
 }
 .icon-tap5down {
@@ -308,12 +314,6 @@
 	/*fill: #000000;*/
 }
 .icon-tap5right {
-	/*fill: #000000;*/
-}
-.icon-tap5up {
-	/*fill: #000000;*/
-}
-.icon-zoom {
 	/*fill: #000000;*/
 }
 .icon-deviceshake {
